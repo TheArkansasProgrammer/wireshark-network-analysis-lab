@@ -45,6 +45,7 @@ This shows DNS queries being sent to resolve domain names into IP addresses befo
 
 ### 3. TCP 3-Way Handshake
 This shows the details of a DNS packet, including the requested domain and the response from the DNS server.
+
 ![dns-details](https://github.com/user-attachments/assets/c8a721e1-b820-474c-8a61-12955b8c61c3)
 
 ---
