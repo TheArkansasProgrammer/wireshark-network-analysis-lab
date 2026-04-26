@@ -8,7 +8,7 @@ This project demonstrates how I used Wireshark to analyze real network traffic a
 
 ---
 
-## 📌 What I Did
+## What I Did
 
 - Captured live network traffic using Wireshark
 - Filtered DNS traffic to observe domain lookups
@@ -18,7 +18,7 @@ This project demonstrates how I used Wireshark to analyze real network traffic a
 
 ---
 
-## 🧠 Key Concepts Learned
+##  Key Concepts Learned
 
 - DNS resolves domain names into IP addresses
 - TCP establishes connections using a 3-way handshake
@@ -27,7 +27,7 @@ This project demonstrates how I used Wireshark to analyze real network traffic a
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### 1. Wireshark Capture Interface
 <img width="2048" height="797" alt="wireshark-interface" src="https://github.com/user-attachments/assets/5983baac-c504-4e9f-809e-f0ae01d565c1" />
@@ -66,7 +66,7 @@ This project demonstrates how I used Wireshark to analyze real network traffic a
 
 ---
 
-## 🚀 Tools Used
+##  Tools Used
 
 - Wireshark
 - macOS Terminal
@@ -75,6 +75,6 @@ This project demonstrates how I used Wireshark to analyze real network traffic a
 
 ---
 
-## 💡 Summary
+##  Summary
 
 This lab helped me understand how real network communication works behind the scenes. I gained hands-on experience analyzing packets and identifying key protocols used in everyday internet activity.
