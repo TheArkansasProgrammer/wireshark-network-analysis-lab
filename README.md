@@ -30,6 +30,7 @@ This project demonstrates how I used Wireshark to analyze real network traffic a
 ##  Screenshots
 
 ### 1. Wireshark Capture Interface
+This shows the main Wireshark interface where network traffic is captured and analyzed in real time.
 <img width="2048" height="797" alt="wireshark-interface" src="https://github.com/user-attachments/assets/5983baac-c504-4e9f-809e-f0ae01d565c1" />
 
 ---
