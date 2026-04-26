@@ -1,5 +1,8 @@
 
-# 🛜 Wireshark Network Analysis Lab
+<img width="1774" height="887" alt="0a9f17f3-8d4e-4dee-8c23-1c3c3ef10409" src="https://github.com/user-attachments/assets/be45dc88-577c-4f43-bdf2-471d9a85776a" />
+
+#  Wireshark Network Analysis Lab
+
 
 This project demonstrates how I used Wireshark to analyze real network traffic and understand how DNS, TCP, and HTTPS work together.
 
