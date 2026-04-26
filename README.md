@@ -5,75 +5,67 @@
 <img width="2048" height="1143" alt="dns-traffic-overview" src="https://github.com/user-attachments/assets/39d413e5-f979-4f06-945e-5976ead94381" />
 <img width="2048" height="1232" alt="dns-terminal-validation" src="https://github.com/user-attachments/assets/f89def17-c3cb-4414-a901-d5434e2d20aa" />
 <img width="2048" height="1135" alt="dns-packet-breakdown" src="https://github.com/user-attachments/assets/c8a721e1-b820-474c-8a61-12955b8c61c3" />
-# 🌐 Wireshark Network Analysis Lab
+# 🛜 Wireshark Network Analysis Lab
 
-> A simple breakdown of how a website request works behind the scenes
-
----
-
-## 🔄 How It Works
-
-DNS → TCP → TLS → Secure Data
+This project demonstrates how I used Wireshark to analyze real network traffic and understand how DNS, TCP, and HTTPS work together.
 
 ---
 
-## 🧭 DNS (Finding the Website)
+## 📌 What I Did
 
-This is the first step when visiting a website.
-
-![DNS Query](dns-query.png)
-
-The computer sends a request to find the IP address of a domain.
-
-![DNS Response](dns-response.png)
-
-The DNS server responds with the IP address.
+- Captured live network traffic using Wireshark
+- Filtered DNS traffic to observe domain lookups
+- Analyzed TCP 3-way handshake (SYN, SYN-ACK, ACK)
+- Followed TCP streams to inspect HTTPS traffic
+- Used terminal commands (nslookup, curl) to generate traffic
 
 ---
 
-## 🔌 TCP (Making the Connection)
+## 🧠 Key Concepts Learned
 
-This is how a connection is created between devices.
-
-![TCP Handshake](tcp-handshake.png)
-
-The connection is established using:
-
-* SYN
-* SYN-ACK
-* ACK
+- DNS resolves domain names into IP addresses
+- TCP establishes connections using a 3-way handshake
+- HTTPS traffic is encrypted and cannot be read directly
+- Packet analysis helps understand real network behavior
 
 ---
 
-## 🔒 TLS (Securing the Data)
+## 📸 Screenshots
 
-This is what makes HTTPS secure.
-
-![TLS](tls-handshake.png)
-
-After the connection is made, encryption begins:
-
-* Client Hello
-* Server Hello
-* Encrypted communication
+### 1. Wireshark Capture Interface
+<img width="2048" height="797" alt="wireshark-interface" src="https://github.com/user-attachments/assets/5983baac-c504-4e9f-809e-f0ae01d565c1" />
 
 ---
 
-## 🧠 Key Takeaways
-
-* DNS finds the website's IP address
-* TCP creates the connection
-* TLS encrypts the data
+### 2. DNS Traffic Analysis
+![dns](https://github.com/user-attachments/assets/39d413e5-f979-4f06-945e-5976ead94381)
 
 ---
 
-## 🎯 Why This Matters
-
-Every website you visit goes through these steps.
-Understanding this is important for networking and cybersecurity roles.
+### 3. TCP 3-Way Handshake
+![tcp](PASTE_LINK_HERE)
 
 ---
 
-## 🚀 Built By
+### 4. Follow TCP Stream (Encrypted HTTPS)
+![stream](PASTE_LINK_HERE)
 
-Justin — aspiring network engineer
+---
+
+### 5. Terminal Commands (nslookup & curl)
+![terminal](PASTE_LINK_HERE)
+
+---
+
+## 🚀 Tools Used
+
+- Wireshark
+- macOS Terminal
+- nslookup
+- curl
+
+---
+
+## 💡 Summary
+
+This lab helped me understand how real network communication works behind the scenes. I gained hands-on experience analyzing packets and identifying key protocols used in everyday internet activity.
