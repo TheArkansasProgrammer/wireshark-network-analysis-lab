@@ -82,6 +82,9 @@ This shows terminal commands used to generate and verify network traffic, includ
 ### 8. Follow TCP Stream (HTTP Conversation)
 Captured and followed a TCP stream to analyze the full HTTP conversation between client and server.
 
+<img width="949" height="794" alt="Screenshot 2026-04-27 at 7 27 05 PM" src="https://github.com/user-attachments/assets/220aaeff-f80c-4c94-9559-24e3404c4c30" />
+
+
 
 
 ##  Tools Used
