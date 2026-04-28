@@ -18,12 +18,13 @@ This project demonstrates how I used Wireshark to analyze real network traffic a
 
 ---
 
-##  Key Concepts Learned
-
-- DNS resolves domain names into IP addresses
-- TCP establishes connections using a 3-way handshake
-- HTTPS traffic is encrypted and cannot be read directly
-- Packet analysis helps understand real network behavior
+## Skills Demonstrated
+- Packet capture and filtering
+- DNS traffic analysis
+- TCP three-way handshake analysis
+- HTTPS/TLS traffic inspection
+- Terminal-based traffic generation
+- Basic network troubleshooting
 
 ---
 
