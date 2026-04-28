@@ -4,14 +4,14 @@
 # Wireshark Network Analysis Lab
 
 ## Overview
-This project demonstrates hands-on network traffic analysis using Wireshark. It includes capturing and analyzing DNS queries, TCP handshakes, HTTP/HTTPS traffic, and inspecting full TCP streams.
+This project demonstrates hands-on network traffic analysis using Wireshark, including live traffic capture and investigation of a malicious PCAP file.
 
 ## Skills Demonstrated
 - Packet capture and analysis using Wireshark
-- Understanding of TCP/IP protocols
-- DNS resolution analysis
-- HTTP and HTTPS traffic inspection
+- TCP/IP protocol analysis
+- DNS and HTTP traffic inspection
 - TCP stream analysis
+- Basic threat detection and investigation
 ---
 
 ##  Screenshots
