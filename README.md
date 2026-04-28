@@ -3,28 +3,15 @@
 
 #  Wireshark Network Analysis Lab
 
-
-This project demonstrates how I used Wireshark to analyze real network traffic and understand how DNS, TCP, and HTTPS work together.
-
----
-
-## What I Did
-
-- Captured live network traffic using Wireshark
-- Filtered DNS traffic to observe domain lookups
-- Analyzed TCP 3-way handshake (SYN, SYN-ACK, ACK)
-- Followed TCP streams to inspect HTTPS traffic
-- Used terminal commands (nslookup, curl) to generate traffic
-
----
+## Overview
+This project demonstrates hands-on network traffic analysis using Wireshark. It includes capturing and analyzing DNS queries, TCP handshakes, HTTP/HTTPS traffic, and inspecting full TCP streams.
 
 ## Skills Demonstrated
-- Packet capture and filtering
-- DNS traffic analysis
-- TCP three-way handshake analysis
-- HTTPS/TLS traffic inspection
-- Terminal-based traffic generation
-- Basic network troubleshooting
+- Packet capture and analysis using Wireshark
+- TCP/IP protocol understanding
+- DNS resolution analysis
+- HTTP and HTTPS traffic inspection
+- TCP stream analysis
 
 ---
 
