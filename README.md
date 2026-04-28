@@ -30,7 +30,7 @@ This shows DNS queries being sent to resolve domain names into IP addresses befo
 
 ---
 
-### 3. DNS Query Analysis
+### 3. DNS Packet Details
 This shows the details of a DNS packet, including the requested domain and the response from the DNS server.
 
 ![dns-details](https://github.com/user-attachments/assets/c8a721e1-b820-474c-8a61-12955b8c61c3)
@@ -51,7 +51,7 @@ This shows the TLS handshake process where encryption is established for secure 
 
 ---
 
-### 6. Follow TCP Stream (encrypted data)
+### 6. Follow TCP Stream (HTTP Conversation)
 This shows a TCP stream where data between the client and server can be followed, including encrypted traffic.
 
 ![stream](https://github.com/user-attachments/assets/111dda7c-d9f8-4c3c-81e0-4c960d492309)
