@@ -6,7 +6,6 @@
 ## Overview
 This project demonstrates hands-on network traffic analysis using Wireshark. It includes capturing and analyzing DNS queries, TCP handshakes, HTTP/HTTPS traffic, and inspecting full TCP streams.
 
----
 
 ## Skills Demonstrated
 - Packet capture and analysis using Wireshark
