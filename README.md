@@ -76,8 +76,8 @@ Captured and followed a TCP stream to analyze the full HTTP conversation between
 
 | Tool | Purpose |
 |------|--------|
-| Wireshark | Packet capture and analysis |
-| Windows 10/11 | Host system |
+| Wireshark 4.6.4 | Packet capture and analysis |
+| macOS | Host system |
 | neverssl.com | HTTP traffic testing |
 | malware-traffic-analysis.net | Malicious PCAP analysis |
 
