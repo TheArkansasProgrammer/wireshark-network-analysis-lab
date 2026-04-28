@@ -72,13 +72,14 @@ Captured and followed a TCP stream to analyze the full HTTP conversation between
 
 
 
+## Tools & Technologies
 
-##  Tools Used
-
-- Wireshark
-- macOS Terminal
-- nslookup
-- curl
+| Tool | Purpose |
+|------|--------|
+| Wireshark | Packet capture and analysis |
+| Windows 10/11 | Host system |
+| neverssl.com | HTTP traffic testing |
+| malware-traffic-analysis.net | Malicious PCAP analysis |
 
 ---
 
