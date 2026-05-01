@@ -23,10 +23,6 @@ This shows the main Wireshark interface where network traffic is captured and an
 
 ---
 
-### 2. DNS Traffic Analysis
-This shows DNS queries being sent to resolve domain names into IP addresses before connecting to a website.
-
-![dns](https://github.com/user-attachments/assets/39d413e5-f979-4f06-945e-5976ead94381)
 
 ---
 
