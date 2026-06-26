@@ -84,6 +84,3 @@ Captured and followed a TCP stream to analyze the full HTTP conversation between
 
 ---
 
-##  Summary
-
-This lab helped me understand how real network communication works behind the scenes. I gained hands-on experience analyzing packets and identifying key protocols used in everyday internet activity.
